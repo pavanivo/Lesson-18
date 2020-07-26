@@ -23,9 +23,9 @@
 
 > **Total Time: 90 mins**
 
-I. **Regression Review** (20 minutes total)
+I. **Regression Review** 
 
-II. **Feature Engineering** (70 minutes total)
+II. **Feature Engineering** 
 - Why?
 - Feature Engineering Methods
 
